@@ -3,7 +3,7 @@ from requests import *
 from telegram import *
 from telegram.ext import *
 
-TOKEN = '6413837352:AAEsxbSeeOd36NB1PdFYvdtX3u3hSXEZ2xA'
+TOKEN = '7080362550:AAGSyrMy0fjolsP7tD7yQjIuWc7jYeTD0L4'
 
 RANDOM_IMAGE = "Random image"
 GET_MP3 = "Get mp3"
